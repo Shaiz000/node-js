@@ -1,0 +1,28 @@
+{
+  "name": "tut",
+  "version": "1.0.0",
+  "description": "a node js practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Shaiz000/node-js-practice.git)"
+  },
+  "keywords": [
+    "code",
+    "with",
+    "shaiz"
+  ],
+  "author": "Shaiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shaiz000/node-js-practice/issues"
+  },
+  "homepage": "https://github.com/Shaiz000/node-js-practice#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "simple-node-logger": "^21.8.12"
+  }
+}
